@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #e2e2ea;
+    background-color: #0c0b10;
+  }
+  
+  code, pre, .font-mono {
+    font-family: 'Fira Code', monospace;
+  }
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 18s linear infinite;
+}
+
+/* Custom glowing and ambient gradients */
+.ambient-glow {
+  background: radial-gradient(circle at 10% 10%, rgba(255, 0, 122, 0.12) 0%, rgba(138, 43, 226, 0.06) 35%, transparent 70%);
+}
+
+.card-gradient {
+  background: linear-gradient(145deg, rgba(26, 24, 37, 0.75) 0%, rgba(17, 16, 24, 0.9) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.card-gradient:hover {
+  border-color: rgba(255, 0, 122, 0.35);
+}
+
+/* Custom sleek scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0c0b10;
+}
+::-webkit-scrollbar-thumb {
+  background: #232230;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #39364f;
+}
+
+/* Print Styles for Clean Resume Printing */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+  
+  body * {
+    visibility: hidden;
+  }
+
+  #printable-resume, #printable-resume * {
+    visibility: visible;
+  }
+
+  #printable-resume {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 15mm !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+}
+
