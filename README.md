@@ -1,6 +1,6 @@
 # Hi there, I'm Sheema! 👋
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Click_Here-ff007a?style=for-the-badge)](https://ais-pre-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app)
+[![Live Portfolio](https://ais-dev-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app/)
 [![Download Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-blue?style=for-the-badge)](https://ais-pre-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Sheema.mca26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sheema.mca26@gmail.com)
@@ -9,7 +9,7 @@
 
 ### 🌟 Interactive Developer Portfolio
 > **Live Website for Recruiters & Hiring Managers:**  
-> 🔗 **[https://ais-pre-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app](https://ais-pre-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app)**  
+> 🔗 **[https://ais-dev-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app/)**  
 > *(Explore my live projects, interactive technical skills dashboard, verified certifications, and 1-click ATS resume download)*
 
 ---
@@ -71,7 +71,7 @@ Motivated **MCA Postgraduate** and aspiring **Java & Python Full-Stack Developer
 
 ## 📬 Get In Touch
 
-- 🌐 **Portfolio**: [Visit My Website](https://ais-pre-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app)
+- 🌐 **Portfolio**: [Visit My Website](https://ais-dev-nrmhlhsjfb7s3ex6pgand3-9314549012.asia-southeast1.run.app/)
 - 📧 **Email**: [Sheema.mca26@gmail.com](mailto:Sheema.mca26@gmail.com)
 - 📱 **Phone**: +91 9391621778
 - 📍 **Location**: Hyderabad, Telangana, India
